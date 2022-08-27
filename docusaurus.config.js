@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AveroaJS',
-  tagline: "Simple and 'Quick Development' Nodejs Framework",
-  url: 'https://averoa.com',
+  tagline: "Create RestAPI by One Simple Step",
+  url: 'https://averoajs.com',
   // url: 'http://localhost:3000',
   baseUrl: '/',
   onBrokenLinks: 'throw',
