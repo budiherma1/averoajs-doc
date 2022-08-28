@@ -62,6 +62,7 @@ const config = {
         logo: {
           alt: 'AveroaJS Logo',
           src: 'img/g19580.png',
+          srcDark: 'img/text293-3-2-8-1-9dark.png',
         },
         items: [
           {
