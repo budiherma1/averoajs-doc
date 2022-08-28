@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/averoa1.png',
+  favicon: 'img/path10530-8-2-311ico.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,10 +58,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'AveroaJS',
+        title: '',
         logo: {
           alt: 'AveroaJS Logo',
-          src: 'img/averoa1.png',
+          src: 'img/g19580.png',
         },
         items: [
           {
